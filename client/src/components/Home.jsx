@@ -20,19 +20,7 @@ export default function Home () {
 
             </div>
             <div className="game-nav">
-                    <Link className="link" to ="/technology">Tech</Link>
-                    <br/>
-                    <Link className="link" to ="/history">History</Link>
-                    <br />
-                    <Link className="link" to ="/sports">Sports</Link>
-                    <br />
-                    <Link className="link" to ="/competition">Competition</Link>
-                    <br />
-                    <Link className="link" to ="/success">Success</Link>
-                    <br />
-                    <Link className="link" to ="/inspirational">Inspirational</Link>
-                    <br />
-                    <Link className="link" to ="/business">Business</Link>
+                    
                 </div>
         </div>
     )
